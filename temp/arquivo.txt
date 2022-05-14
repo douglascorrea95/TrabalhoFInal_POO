@@ -1,0 +1,35 @@
+Agencia;1;Rua das Palmeiras n47;0001;1;1
+Agencia;2;Rua das Flores n98;0002;2;1
+Agencia;3;Rua Brasil n845;0003;3;2
+Agencia;4;Rua Quinze n34;0004;4;2
+ContaCorrente;1;cc;0001;111222;4500;1;1
+ContaCorrente;2;cc;0001;111333;760;2;2
+ContaCorrente;3;cc;0002;222111;500;3;3
+ContaCorrente;4;cc;0003;333111;1500;4;4
+ContaCorrente;5;cc;0004;444111;2000;5;5
+ContaCorrente;6;cc;0004;444222;200;6;6
+ContaPoupanca;7;cp;0001;111444;76;1;7
+ContaPoupanca;8;cp;0001;111555;650;2;8
+ContaPoupanca;9;cp;0002;222444;120;3;9
+ContaPoupanca;10;cp;0003;333777;10;4;10
+ContaPoupanca;11;cp;0004;444555;405;5;11
+ContaPoupanca;12;cp;0004;444999;3900;6;12
+Cliente;Maria Lavivnia;021;Rua Aguia n1;99995555;1;1;ab;cliente
+Cliente;Millena Motta;01102203344;Rua Lua n1;88884444;2;1;ac2345;cliente
+Cliente;Joao Felipe;03304405587;Rua Nova n3;99993333;3;2;ad6589;cliente
+Cliente;Maria Fernanda;07708809987;Rua velhan 4;99998888;4;2;ad9878;cliente
+Cliente;Matheus Alves;77788899921;Rua ALta n5;99995555;5;3;ae5256;cliente
+Cliente;Marilda Motta;66633377787;Rua Estrelar n6;99994545;6;3;af2589;cliente
+Cliente;Breno Lopes;048593749321;Rua Alves n23;904739584;7;4;ie0984;cliente
+Cliente;Jose Silva;33355588878;Rua Linda n7;99994778;8;4;03urnf;cliente
+Cliente;Jose Marcio;493028475493;Rua Flores n7;99993233;9;4;pw2938;cliente
+Cliente;Ariane Viana;09364829381;Rua Linda n43;99994943;10;4;pe8492;cliente
+Cliente;Vanessa Manzini;83492039481;Rua Linda n12;99000778;11;4;hg8394;cliente
+Cliente;Joao Baptista;04839485732;Rua Linda n11;95594778;12;4;ur8549;cliente
+Gerente;Arthur Silva;12358796577;Rua Antiga n8;99998574;1;7000;gerente;1;jdhr9305;gerente
+Gerente;Tatiana Guerra;55566644477;Rua Clara n9;9992356;2;7000;gerente;2;oprt9857;gerente
+Gerente;Patricia Motta;88855566622;Rua Atria n10;99995689;3;7000;gerente;3;wyeb4783;gerente
+Gerente;Clara Souza;88899966647;Rua Onix n11;99996565;4;7000;gerente;4;pwdc0472;gerente
+Diretor;Claudio Marcio;66699977725;Rua Reta n12;99994152;5;15000;diretor;1;2;etrkd84930;diretor
+Diretor;Rodrigo Araujo;74523698712;Rua Pollux n13;99996879;6;15000;diretor;2;2;uenvj93745;diretor
+Presidente;Jonas Habbib;36985214787;Rua Canto n14;9997878;7;30000;presidente;1;04956thdjsk;presidente
